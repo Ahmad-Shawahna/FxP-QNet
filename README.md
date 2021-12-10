@@ -1,1 +1,1 @@
-# FxP-QNets
+# FxP-QNet
